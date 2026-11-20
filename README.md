@@ -180,19 +180,6 @@ Scores are **relative to the group**: a score of 1.0 means the highest in this c
 ![Radar Chart](images/radar_chart.png)
 -->
 
----
-
-## Results
-
-<!-- Fill these in from your notebook output -->
-
-| Metric | Value |
-|---|---|
-| Messages analyzed | `[2598]` |
-| Participants | `[77]` |
-| Test accuracy | `[0.9841584158415841]%` |
-
----
 
 ## Limitations
 
